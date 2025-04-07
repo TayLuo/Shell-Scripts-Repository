@@ -4,4 +4,4 @@ A collection of shell scripts to automate system administration tasks in Linux. 
 
 - [file encryption](https://github.com/TayLuo/encrypt.sh/blob/main/README.md)
 
-- [user management]()
+- [user management](https://github.com/TayLuo/user_setup.sh)
